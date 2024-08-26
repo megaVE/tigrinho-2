@@ -4,7 +4,8 @@ A web application inspired on the game Fortune Tiger made with ReactJS. | Uma ap
 ## Description (Descrição)
 
 The icons used in the Slot Machine were made by ArtsyFuni and can be found and adquired here:
-[ArtsyFuni: Chainsaw Man - Makima]([https://website-name.com](https://www.etsy.com/pt/listing/1487104692/csm-makima-gif-kawaii-fofo-anime-emotes))
+(Os ícones utilizados no caça-níqueis foram feitos por ArtsyFuni e podem ser encontrados e adquiridos aqui:)
+- [ArtsyFuni: Chainsaw Man - Makima](https://www.etsy.com/pt/listing/1487104692/csm-makima-gif-kawaii-fofo-anime-emotes)
 
 ## Installing (Instalação)
 
